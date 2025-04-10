@@ -1,4 +1,4 @@
 submit50:
   files: 
-    - !exclude "*".pdf
-    - !exclude "*".class
+    - !exclude ".pdf"
+    - !exclude ".class"
