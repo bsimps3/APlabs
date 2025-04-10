@@ -1,4 +1,4 @@
 submit50:
   files: 
-    - !exclude "*"
-    - !require RayTotal.java
+    - !exclude "*".pdf
+    - !exclude "*".class
