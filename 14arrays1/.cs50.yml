@@ -1,4 +1,4 @@
 submit50:
   files: 
     - !exclude "*"
-    - !include "*.java"
+   
