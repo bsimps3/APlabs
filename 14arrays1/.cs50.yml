@@ -1,4 +1,4 @@
-dependencies: "check50_java"
+dependencies: check50_java
 submit50:
   files: &submit50_files
     - !exclude "*"
