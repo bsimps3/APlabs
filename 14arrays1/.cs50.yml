@@ -5,3 +5,4 @@ submit50:
 
 check50:
   files: *submit50_files
+  dependencies: "https://pypi.org/project/check50-java/"
