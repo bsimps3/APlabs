@@ -1,5 +1,7 @@
 submit50:
-  files:
+  files: &submit50_files
     - !exclude "*"
-    - !require "*.java"
-   
+    - !include "*.java"
+
+check50:
+  files: *submit50_files
