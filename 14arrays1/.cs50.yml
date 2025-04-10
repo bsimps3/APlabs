@@ -6,4 +6,5 @@ submit50:
 
 check50:
   files: *submit50_files
-  dependencies: check50-java
+  dependencies: 
+    - check50-java
