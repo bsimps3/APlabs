@@ -1,8 +1,8 @@
-check50: $check50_files
+check50: &submit50_files
     files: 
         - !exclude "*"
         - !include "*.java"
 submit50:
-    files: *check50_files
+    files: *submit_files
     
    
